@@ -7,7 +7,7 @@ Movie Details: Detailed information about each movie, including title, year of r
 Poster Gallery: Display of movie posters to help users visually identify movies.
 User-friendly Interface: A clean and intuitive interface for easy navigation and enjoyable user experience.
 
-## Getting Started
+### Getting Started
 
 1. Clone the repository.
 2. Navigate to the project directory.
