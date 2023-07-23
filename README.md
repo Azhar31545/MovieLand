@@ -1,6 +1,7 @@
 # MovieLand - Movie Information Search App
 MovieLand is a web application that allows users to search for movie information and view details about their favorite movies. The app utilizes the OMDB API to fetch movie data and provides an intuitive user interface for an enhanced movie search experience.
-Features
+
+## Features
 Search Movies: Users can search for movies using keywords or titles.
 Movie Details: Detailed information about each movie, including title, year of release, and more.
 Poster Gallery: Display of movie posters to help users visually identify movies.
